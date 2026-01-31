@@ -13,4 +13,4 @@ To install dependencies in python3:
 ### attributions
 
 ### disclaimer
-This project is intended for non-commercial educational purposes only.
+This project is the original work of Shae Pressel and is not intended for commercial use. This work is authorized soley for educational purposes and for contributing to the development and improvement of the project.
