@@ -1,7 +1,7 @@
 # Hero bot
 A comprehensive, multi-function discord bot project created with python.
 
-![Hero bot icon](./icon/icon.png)
+<img src="https://github.com/shae0208/hero-bot/blob/main/icon/icon.png" alt="Hero bot icon" width="500" height="500">
 
 ## function
 Includes functionality for:
